@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Lobster' , sans-serif;
+    background: #eee url('./background.jpg') no-repeat fixed center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 6rem;
+    font-weight: 400;
+    color: #fff;
+    z-index: 2;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.container::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: '';
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 1;
+}
