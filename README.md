@@ -1,7 +1,7 @@
 ### EZwriter
 vanilla js typewriter !
 
-![Alt Text](https://srv-store4.gofile.io/download/4yqwcI/ezwriter.gif)
+![Alt Text](./demo/ezwriter.gif)
 
 [========]
 
