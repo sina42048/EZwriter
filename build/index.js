@@ -1,6 +1,6 @@
 /*!
  * 
- *   @sina42048/EZwriter v1.0.0
+ *   ezwriter v1.0.0
  *   https://github.com/sina42048/EZwriter
  *
  *   Copyright (c) Sina Fathollahi

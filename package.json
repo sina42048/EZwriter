@@ -1,5 +1,5 @@
 {
-  "name": "EZwriter",
+  "name": "ezwriter",
   "version": "1.0.0",
   "description": "Vanilla Javascript TypeWriter",
   "main": "build/index.js",
